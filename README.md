@@ -1,4 +1,4 @@
-# [Wordle](https://tushar-gupta27.github.io/MovieTracker/)
+# [Wordle](https://tushar-gupta27.github.io/wordleClone-code/)
 
 ### Everyone's favourite game 
 
